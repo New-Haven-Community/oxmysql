@@ -1,5 +1,8 @@
 # oxmysql
 
+This resource was NOT made by the New Haven Community or by any of its associates.
+
+# Ox
 A FiveM resource to communicate with a MySQL database using [node-mysql2](https://github.com/sidorares/node-mysql2).
 
 ![](https://img.shields.io/github/downloads/overextended/oxmysql/total?logo=github)
